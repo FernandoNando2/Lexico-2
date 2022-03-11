@@ -1,0 +1,15 @@
+C:\Users\Fernando Hernández\Desktop\ITQ\4to Semestre\Lenguajes y Autómatas 1\Lexico 2\bin\Debug\net6.0\Lexico 2.exe
+C:\Users\Fernando Hernández\Desktop\ITQ\4to Semestre\Lenguajes y Autómatas 1\Lexico 2\bin\Debug\net6.0\Lexico 2.deps.json
+C:\Users\Fernando Hernández\Desktop\ITQ\4to Semestre\Lenguajes y Autómatas 1\Lexico 2\bin\Debug\net6.0\Lexico 2.runtimeconfig.json
+C:\Users\Fernando Hernández\Desktop\ITQ\4to Semestre\Lenguajes y Autómatas 1\Lexico 2\bin\Debug\net6.0\Lexico 2.dll
+C:\Users\Fernando Hernández\Desktop\ITQ\4to Semestre\Lenguajes y Autómatas 1\Lexico 2\bin\Debug\net6.0\ref\Lexico 2.dll
+C:\Users\Fernando Hernández\Desktop\ITQ\4to Semestre\Lenguajes y Autómatas 1\Lexico 2\bin\Debug\net6.0\Lexico 2.pdb
+C:\Users\Fernando Hernández\Desktop\ITQ\4to Semestre\Lenguajes y Autómatas 1\Lexico 2\obj\Debug\net6.0\Lexico 2.csproj.AssemblyReference.cache
+C:\Users\Fernando Hernández\Desktop\ITQ\4to Semestre\Lenguajes y Autómatas 1\Lexico 2\obj\Debug\net6.0\Lexico 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando Hernández\Desktop\ITQ\4to Semestre\Lenguajes y Autómatas 1\Lexico 2\obj\Debug\net6.0\Lexico 2.AssemblyInfoInputs.cache
+C:\Users\Fernando Hernández\Desktop\ITQ\4to Semestre\Lenguajes y Autómatas 1\Lexico 2\obj\Debug\net6.0\Lexico 2.AssemblyInfo.cs
+C:\Users\Fernando Hernández\Desktop\ITQ\4to Semestre\Lenguajes y Autómatas 1\Lexico 2\obj\Debug\net6.0\Lexico 2.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Hernández\Desktop\ITQ\4to Semestre\Lenguajes y Autómatas 1\Lexico 2\obj\Debug\net6.0\Lexico 2.dll
+C:\Users\Fernando Hernández\Desktop\ITQ\4to Semestre\Lenguajes y Autómatas 1\Lexico 2\obj\Debug\net6.0\ref\Lexico 2.dll
+C:\Users\Fernando Hernández\Desktop\ITQ\4to Semestre\Lenguajes y Autómatas 1\Lexico 2\obj\Debug\net6.0\Lexico 2.pdb
+C:\Users\Fernando Hernández\Desktop\ITQ\4to Semestre\Lenguajes y Autómatas 1\Lexico 2\obj\Debug\net6.0\Lexico 2.genruntimeconfig.cache
