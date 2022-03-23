@@ -5,7 +5,7 @@ namespace Lexico_2{
 
         static void Main(string[] args){
 
-            Lexico a = new Lexico();
+            Lexico_2 a = new Lexico_2();
             
             while(!a.FinArchivo()){
                 a.NextToken();
